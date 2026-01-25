@@ -1,0 +1,5 @@
+{
+  "name": "Quizbowl Stat Tracker",
+  "description": "A comprehensive stat tracking application for Quizbowl teams with real-time substitution management and CSV data export capabilities.",
+  "requestFramePermissions": []
+}
