@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "main": "App.tsx",
-  "homepage": "https://github.com/jwu018.github.io/Quizbowl-Stat-Tracker",
+  "homepage": "https://jwu018.github.io/Quizbowl-Stat-Tracker/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
